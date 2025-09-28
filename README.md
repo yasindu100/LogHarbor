@@ -1,7 +1,6 @@
 # LogHarbor 🚢
 
 **LogHarbor** is a lightweight log aggregation service built with Go and Gin. Designed for speed, modularity, and scalability, it enables developers to ingest, store, and query structured log data through clean RESTful endpoints.
-
 ---
 
 ## 🔧 Features
